@@ -1,0 +1,2 @@
+This script makes fuzzing web, you give it two parameters, 1. the dictionary or wordlist, 
+2. the URL to make fuzzing. Example: bash fuzzer.sh <rockyou.txt> <http://localhost/>
